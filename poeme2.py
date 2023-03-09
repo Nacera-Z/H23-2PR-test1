@@ -1,0 +1,1 @@
+print("Quelle belle journee ...")
